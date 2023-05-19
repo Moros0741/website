@@ -19,7 +19,7 @@ export default function Home() {
           Nick | Moros#0741
         </title>
         <meta name="description" content="Nick | Moros#0741" />
-        <link rel="icon" href="/nick.png" />
+        <link rel="icon" href="/nick_b.png" />
       </Head>
       <Main />
       <About />
