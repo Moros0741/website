@@ -8,7 +8,6 @@ import Skills from '@/components/Skills'
 import Projects from '@/components/Projects'
 import Contact from '@/components/Contact'
 import Footer from '@/components/Footer'
-// https://youtu.be/CMx51wpd7g4?t=7185 - 2:00:00;
 
 const inter = Inter({ subsets: ['latin'] })
 
